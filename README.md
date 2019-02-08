@@ -8,7 +8,7 @@ https://guides.github.com/
 https://goo.gl/F4ceMW
 https://pabii.co/data-science-not-big-data/
 2018. 8. 7. 오후 5:52,
-https://docs.microsoft.com/ko-kr/azure/machine-learning/studio/data-science-for-beginners-the-5-questions-data-science-answers 
+https://docs.microsoft.com/ko-kr/azure/machine-learning/studio/data-science-for-beginners-the-5-questions-data-science-answers
 
 2018. 8. 9. 오후 9:01
 https://hwan0447.blog.me/100187987636
@@ -32,7 +32,7 @@ https://hwan0447.blog.me/100187987636
 2018. 8. 26. 오후 6:01,  : https://www.datacamp.com/community/tutorials/data-science-python-ide
 2018. 8. 26. 오후 6:01,  : https://www.kaggle.com/ash316/eda-to-prediction-dietanic
 
-2018. 8. 29. 오전 10:28, 문세화 red : 어떤 목적으로 수료증을 할까 고민하시는진 모르겠지만,, 그건 인증만 되고 진짜 실력은 면접 때 보려고 할 거예요. 그니까 아 이 사람이 그래도 공부를 하기는 했구나 알려주는 그정도 역할? 그리고 코세라에 심화 강의가 있기는 한지..음..잘 모르겠네요ㅠㅠ 깊이 있는 강의는 차라리 유튭이나 오픈코스에 많아요. 머신러닝을 직접 다루는 정도로 깊이있는 공부를 원하시면 https://brunch.co.kr/@aidenswmo/2 여기 참고하시면 좋을 거 같아요
+2018. 8. 29. 오전 10:28, : 어떤 목적으로 수료증을 할까 고민하시는진 모르겠지만,, 그건 인증만 되고 진짜 실력은 면접 때 보려고 할 거예요. 그니까 아 이 사람이 그래도 공부를 하기는 했구나 알려주는 그정도 역할? 그리고 코세라에 심화 강의가 있기는 한지..음..잘 모르겠네요ㅠㅠ 깊이 있는 강의는 차라리 유튭이나 오픈코스에 많아요. 머신러닝을 직접 다루는 정도로 깊이있는 공부를 원하시면 https://brunch.co.kr/@aidenswmo/2 여기 참고하시면 좋을 거 같아요
 
 2018. 8. 29. 오전 10:34,  : https://zzsza.github.io/data/2018/02/17/datascience-interivew-questions/#contents
 
@@ -99,4 +99,3 @@ https://towardsdatascience.com/
 https://m.store.naver.com/places/detailMap?id=13568468
 
 2018. 10. 30. 오후 12:22,  : https://ai.googleblog.com/
-
