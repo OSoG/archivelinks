@@ -1,5 +1,7 @@
 # archivelinks
 
+https://github.com/KennethanCeyer/tutorial-git
+
 * 상세내역조회 https://goo.gl/VzBncJ
 https://goo.gl/F4ceMW
 https://pabii.co/data-science-not-big-data/
